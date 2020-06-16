@@ -1,0 +1,6 @@
+# Midi Transfer Protocol by Ian Grant
+
+Run using 'python3 MTP.py'
+
+Uses the following libraries:
+    sys, concurrent.futures, time and random
